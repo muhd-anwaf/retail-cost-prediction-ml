@@ -16,7 +16,7 @@ Retail pricing is influenced by a complex mix of store characteristics, product 
 
 ## 🏆 Achievement
 
-Ranked 3rd out of 160 participants in a course competition, driven by effective feature engineering and a tuned ensemble of gradient boosting models.
+Ranked 3rd out of 160 participants in a course (Machine Learning for Data Science) competition, driven by effective feature engineering and a tuned ensemble of gradient boosting models.
 
 ---
 
